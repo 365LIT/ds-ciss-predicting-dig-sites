@@ -1,0 +1,12 @@
+﻿NAME,GEOGRAPHICAL REGION,GEOGRAPHICAL LOCATION,COORDINATES,TYPE OF SITE,ELEVATION,PERIOD,CULTURAL COMPLEX,ABSOLUTE DATING ,STONE ARTIFACTS,PALEOLITHIC HUMAN REMAINS,LITERATURE,coord_ns,coord_ew
+Gospodska špilja,Dalmacija,Cetina,"43°59'02""N, 16°26'11""E",C,430,"UP, Mes","M, AU",,YES,NO,Paunovic et al. 2001,43.98388889,16.43638889
+"Krševanje polje, Sali",Dalmacija,Dugi otok,"43° 57'N, 15° 10' E",O,/,"MP, UP, Mes",M,/,YES,NO,(Malez 1979: 240 karta 1:140; Paunović et al. 2001: 64; Komšo 2006: 74),43.95,15.16666667
+Lakušje,Slavonija,Požeška kotlina,"45° 17'N, 17° 45' E",O,170,"MP, UP, Mes",,,YES,NO,(Malez 1979: 240–41 karta 1:47; Paunović et al. 2001: 47; Komšo 2006: 76),45.28333333,17.75
+Romualdova pećina,Istra,Limski kanal,"45° 07' 44"" N, 13° 14' 17"" E",C,110-120,"MP, EUP, LUP?","M, AU? or/and EE?",50-48ka; until the 44.3ky cal BP; 34–31.5ky cal BP; 17174 -16692 cal BP,YES,NO,"(Malez 1979: 251–52 karta 1:58; Paunović et al. 2001: 52; Janković et al. 2016: 8–12, 2017a: 1–4, b: 7–11; Ruiz-Redondo et al. 2019 Fig.1; Peresani et al. 2021: 15,17 Tab 2; Karavanic & Vukosavljevic 2019)",45.12888889,13.23805556
+Ruševo,Slavonija,Požeška kotlina,"45° 12' N, 18° 01' E",O,/,"MP, UP, Mes",,,YES,,(Malez 1979: 253 karta 1:48; Paunović et al. 2001: 47; Komšo 2006: 75–76),45.2,18.01666667
+Velika pećina Klicevica,northern Dalmatia,Klicevica river canyon Benkovac,"44°01'54"" n,15°33'48"" e",C,125,"MP, EUP",M,32-39ka,,,,44.03166667,15.56333333
+Velika pećina/Mačkova pećina na Ravnoj Gori,SZ Hrvatska,Ravna gora,"46° 15' 10"" N, 16° 2' 22"" E",C,428,"MP, UP, Mes?","M, AU, G, E,","33,850 years B.P,                           31,168 years B.P, 26,450 years B.P",/,/,"(Malez 1967: 270–72, 1979: 262–65 Karta 1:35; Karavanić & Smith 1998; Paunović et al. 2001; Karavanić & Janković 2006; Komšo 2006: 77; Miracle et al. 2010)
+",46.25277778,16.03944444
+Vindija,SZ Hrvatska,Ravna gora,"46° 18' 12"" N, 16° 44' 38"" E",C,275,"MP, EUP, LUP","M,AU,G,E","42,000 years B.P - 18,500 years B.P.",YES,YES,"(Malez 1979: 270–73 karta 1:34; Karavanic 1995; Paunović et al. 2001: 9–15; Ahern et al. 2004; Janković et al. 2006; Karavanić & Janković 2006: 29–34; Komšo 2006: 78; Karavanić et al. 2016: 154–57)
+",46.30333333,16.74388889
+Zemunica,Dalmacija,Split- Bisko,"43.56316860942043, 16.673990705770137",C,,"LUP, Mes",,,YES,YES,Perhoc & Radovic 2015,43.56316861,16.67399071
